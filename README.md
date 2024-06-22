@@ -1,14 +1,30 @@
-# crypto-ninja-personality-quiz/
-│
-├── src/
-│   ├── components/
-│   │   └── PersonalityQuiz.js
-│   ├── styles/
-│   │   └── quiz.css
-│   └── App.js
-│
-├── public/
-│   └── index.html
-│
-├── package.json
-└── README.md
+クリプトニンジャ性格診断クイズ
+このプロジェクトは、エニアグラムに基づいた楽しい性格診断クイズです。ユーザーは質問に答えることで、自分のクリプトニンジャ性格タイプを発見できます。
+特徴
+
+9つの異なる性格タイプ
+インタラクティブなクイズ形式
+詳細な結果解説
+簡単な共有機能
+
+セットアップ
+
+このリポジトリをクローンします：
+Copygit clone https://github.com/yourusername/crypto-ninja-personality-quiz.git
+
+プロジェクトディレクトリに移動します：
+Copycd crypto-ninja-personality-quiz
+
+依存関係をインストールします：
+Copynpm install
+
+アプリケーションを起動します：
+Copynpm start
+
+
+使用方法
+ブラウザで http://localhost:3000 を開き、クイズを始めてください。質問に答えていくと、最後に性格タイプの結果が表示されます。
+コントリビューション
+プルリクエストは歓迎します。大きな変更を加える場合は、まずissueを開いて変更内容について議論してください。
+ライセンス
+MIT
